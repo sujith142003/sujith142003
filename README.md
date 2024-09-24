@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly wor
 - 🏆 I completed my internship at **Cognifyz Technologies**, where I gained experience in the **Web Development** domain, learning best practices in designing and building web applications.
 - 🔗 Check out my project on [Login Webpage Design](https://github.com/sujith142003/Login-Webpage-Design-) where I explored different design and coding techniques.
 
-          ---*********---
+          -----------------------
   
 ## 💬 Feel free to connect with me!
 
