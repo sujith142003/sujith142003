@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sujith 👋
+# 👋 Hi friends, I'm Sujith 👋
 
 Welcome to my GitHub profile! I'm passionate about technology and constantly working on enhancing my skills.
 
