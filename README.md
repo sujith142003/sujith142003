@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about technology and constantly working on enhancing my skills
 
- Github Link: https://sujithg505.neocities.org/SUJITH_PORTFOLIO_WEBSITE/SUJITH%20PORTFOLIO
+ Portfolio_Website Link: https://sujithg505.neocities.org/SUJITH_PORTFOLIO_WEBSITE/SUJITH%20PORTFOLIO
 
 
 - 🌱 I’m currently learning **JavaScript** and **C-Programming**, building a strong foundation in both frontend and backend development.
